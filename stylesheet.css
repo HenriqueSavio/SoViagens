@@ -1,0 +1,30 @@
+
+a {
+    color: rgb(15,20,25);/*cor da letra*/
+}
+
+a {
+    text-decoration:none;/*sem sublinhadoi*/
+}
+
+li {
+    list-style-type: none; /*tira o pontinho q fica*/
+}
+li.center{
+    margin: 20 32%;
+}
+
+ul{
+    padding-left: 0px;  /*encosta no canto esquerdo da tela*/
+}
+ul>li>img.pos{
+    margin: 3 7%;
+}
+
+body{
+    background-image: url(Viagem.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: 99% 99%;
+}
